@@ -20,9 +20,15 @@ Step 7. Once you see information about the video such as in the images below, yo
 
 Movies Will Look like this:
 
+<img src="https://miro.medium.com/max/700/1*UGUPL7S1_0uLRAFEYDV_Bw.jpeg"></img>
+
 TV Shows/Episodes will look like this:
 
+<img src="https://miro.medium.com/max/700/1*eyx8dybHw6kB0ftIKGYjoA.jpeg"></img>
+
 Click on the PlexDwnld Button on the Toolbar and you will be redirected to download the video.
+
+<img src="https://miro.medium.com/max/700/1*2zH69ffMbY8TRvcwBvELTA.jpeg"></img>
 
 The Movie or TV Show will begin to download. Then Go back and choose another Movie or TV Show to Download by simply click on the PlexDwnld button again.
 
