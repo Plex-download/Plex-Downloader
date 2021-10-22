@@ -10,7 +10,7 @@ Step 3. Visit https://sharedriches.com/plex-scripts/piplongrun/
 
 Step 4. Under “How to install”, drag the blue box up into the bookmark toolbar.
 
-<img src="https://miro.medium.com/max/1400/1*SP6Bg1RnmahauZx2XibkqQ.gif"></img
+<img src="https://miro.medium.com/max/1400/1*SP6Bg1RnmahauZx2XibkqQ.gif"></img>
 
 Step 5. Login to Plex website from the web browser(Chrome or Firefox).
 
